@@ -1,0 +1,1454 @@
+[
+  {
+    "type": "tweet",
+    "id": "1975261306409394576",
+    "url": "https: //x.com/taylorswift13/status/1975261306409394576",
+    "twitterUrl": "https://twitter.com/taylorswift13/status/1975261306409394576",
+    "text": "Being in the studio and creating these songs was an unforgettable experience, but luckily I don’t ever have to forget it because I was recording while we were writing - and now it’s a way to look back on the process and give you guys a glimpse into how we wrote these songs, and hear the moments we thought of these ideas in real time.\n\nThe Life of a Showgirl (DELUXE Alone In My Tower Acoustic Version) featuring “The Life of a Showgirl” (Original Songwriting Voice Memos) Act 1 & Act 2 are available now on iTunes for 24 hours. \nhttps://t.co/4FjQyW2gE4",
+    "fullText": "Being in the studio and creating these songs was an unforgettable experience, but luckily I don’t ever have to forget it because I was recording while we were writing - and now it’s a way to look back on the process and give you guys a glimpse into how we wrote these songs, and https://t.co/VSYQTFX3Gl",
+    "source": "Twitter for iPhone",
+    "retweetCount": 36152,
+    "replyCount": 4451,
+    "likeCount": 269340,
+    "quoteCount": 5312,
+    "viewCount": 20276825,
+    "createdAt": "Mon Oct 06 18:06:08 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 9992,
+    "isReply": false,
+    "conversationId": "1975261306409394576",
+    "possiblySensitive": false,
+    "isPinned": false,
+    "author": {
+      "type": "user",
+      "userName": "taylorswift13",
+      "url": "https://x.com/taylorswift13",
+      "twitterUrl": "https://twitter.com/taylorswift13",
+      "id": "17919972",
+      "name": "Taylor Swift",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1973025421542236160/73NCkJyb_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/17919972/1759464215",
+      "description": "And, baby, that’s show business for you. New album The Life of a Showgirl. Available Now ❤️‍🔥",
+      "location": "",
+      "followers": 92948025,
+      "following": 0,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 06 10:10:54 +0000 2008",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "taylor.lnk.to/TSTheLifeofaSh…",
+              "expanded_url": "https://taylor.lnk.to/TSTheLifeofaShowgirl",
+              "url": "https://t.co/VetltwlcoJ",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 1571,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "mediaCount": 534,
+      "statusesCount": 877,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1973962151648735471"
+      ]
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/VSYQTFX3Gl",
+          "expanded_url": "https://x.com/taylorswift13/status/1975261306409394576/photo/1",
+          "id_str": "1975261262872211457",
+          "indices": [
+            279,
+            302
+          ],
+          "media_key": "3_1975261262872211457",
+          "media_url_https": "https://pbs.twimg.com/media/G2mJpzgWcAETVyi.jpg",
+          "type": "photo",
+          "url": "https://t.co/VSYQTFX3Gl",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            }
+          },
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "w": 1536,
+              "resize": "fit"
+            },
+            "medium": {
+              "h": 1200,
+              "w": 900,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 680,
+              "w": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 4032,
+            "width": 3024,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 262,
+                "w": 3024,
+                "h": 1693
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 3024,
+                "h": 3024
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 3024,
+                "h": 3447
+              },
+              {
+                "x": 907,
+                "y": 0,
+                "w": 2016,
+                "h": 4032
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 3024,
+                "h": 4032
+              }
+            ]
+          },
+          "media_results": {
+            "result": {
+              "media_key": "3_1975261262872211457"
+            }
+          }
+        },
+        {
+          "display_url": "pic.x.com/VSYQTFX3Gl",
+          "expanded_url": "https://x.com/taylorswift13/status/1975261306409394576/photo/1",
+          "id_str": "1975261262868017152",
+          "indices": [
+            279,
+            302
+          ],
+          "media_key": "3_1975261262868017152",
+          "media_url_https": "https://pbs.twimg.com/media/G2mJpzfWcAASdlN.jpg",
+          "type": "photo",
+          "url": "https://t.co/VSYQTFX3Gl",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            }
+          },
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "w": 1536,
+              "resize": "fit"
+            },
+            "medium": {
+              "h": 1200,
+              "w": 900,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 680,
+              "w": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 4032,
+            "width": 3024,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 666,
+                "w": 3024,
+                "h": 1693
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 3024,
+                "h": 3024
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 3024,
+                "h": 3447
+              },
+              {
+                "x": 1008,
+                "y": 0,
+                "w": 2016,
+                "h": 4032
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 3024,
+                "h": 4032
+              }
+            ]
+          },
+          "media_results": {
+            "result": {
+              "media_key": "3_1975261262868017152"
+            }
+          }
+        },
+        {
+          "display_url": "pic.x.com/VSYQTFX3Gl",
+          "expanded_url": "https://x.com/taylorswift13/status/1975261306409394576/photo/1",
+          "id_str": "1975261262826065920",
+          "indices": [
+            279,
+            302
+          ],
+          "media_key": "3_1975261262826065920",
+          "media_url_https": "https://pbs.twimg.com/media/G2mJpzVWUAAjCHF.jpg",
+          "type": "photo",
+          "url": "https://t.co/VSYQTFX3Gl",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "x": 481,
+                  "y": 537,
+                  "h": 195,
+                  "w": 195
+                },
+                {
+                  "x": 737,
+                  "y": 223,
+                  "h": 247,
+                  "w": 247
+                },
+                {
+                  "x": 1209,
+                  "y": 469,
+                  "h": 207,
+                  "w": 207
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 282,
+                  "y": 314,
+                  "h": 114,
+                  "w": 114
+                },
+                {
+                  "x": 432,
+                  "y": 130,
+                  "h": 145,
+                  "w": 145
+                },
+                {
+                  "x": 708,
+                  "y": 275,
+                  "h": 121,
+                  "w": 121
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "x": 159,
+                  "y": 178,
+                  "h": 64,
+                  "w": 64
+                },
+                {
+                  "x": 244,
+                  "y": 74,
+                  "h": 82,
+                  "w": 82
+                },
+                {
+                  "x": 401,
+                  "y": 155,
+                  "h": 68,
+                  "w": 68
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 601,
+                  "y": 671,
+                  "h": 244,
+                  "w": 244
+                },
+                {
+                  "x": 921,
+                  "y": 279,
+                  "h": 309,
+                  "w": 309
+                },
+                {
+                  "x": 1510,
+                  "y": 586,
+                  "h": 259,
+                  "w": 259
+                }
+              ]
+            }
+          },
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "w": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "h": 1200,
+              "w": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 680,
+              "w": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 2557,
+            "width": 2557,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 115,
+                "w": 2557,
+                "h": 1432
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 2557,
+                "h": 2557
+              },
+              {
+                "x": 314,
+                "y": 0,
+                "w": 2243,
+                "h": 2557
+              },
+              {
+                "x": 959,
+                "y": 0,
+                "w": 1279,
+                "h": 2557
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 2557,
+                "h": 2557
+              }
+            ]
+          },
+          "media_results": {
+            "result": {
+              "media_key": "3_1975261262826065920"
+            }
+          }
+        },
+        {
+          "display_url": "pic.x.com/VSYQTFX3Gl",
+          "expanded_url": "https://x.com/taylorswift13/status/1975261306409394576/photo/1",
+          "id_str": "1975261262880628737",
+          "indices": [
+            279,
+            302
+          ],
+          "media_key": "3_1975261262880628737",
+          "media_url_https": "https://pbs.twimg.com/media/G2mJpziW4AEVsoZ.jpg",
+          "type": "photo",
+          "url": "https://t.co/VSYQTFX3Gl",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "x": 1197,
+                  "y": 1357,
+                  "h": 91,
+                  "w": 91
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 701,
+                  "y": 795,
+                  "h": 53,
+                  "w": 53
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "x": 397,
+                  "y": 450,
+                  "h": 30,
+                  "w": 30
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 2358,
+                  "y": 2673,
+                  "h": 181,
+                  "w": 181
+                }
+              ]
+            }
+          },
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "w": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "h": 900,
+              "w": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 510,
+              "w": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 3024,
+            "width": 4032,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 181,
+                "w": 4032,
+                "h": 2258
+              },
+              {
+                "x": 1008,
+                "y": 0,
+                "w": 3024,
+                "h": 3024
+              },
+              {
+                "x": 1379,
+                "y": 0,
+                "w": 2653,
+                "h": 3024
+              },
+              {
+                "x": 2368,
+                "y": 0,
+                "w": 1512,
+                "h": 3024
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 4032,
+                "h": 3024
+              }
+            ]
+          },
+          "media_results": {
+            "result": {
+              "media_key": "3_1975261262880628737"
+            }
+          }
+        }
+      ]
+    },
+    "card": {},
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "taylor.lnk.to/TSAloneInMyTow…",
+          "expanded_url": "http://taylor.lnk.to/TSAloneInMyTower",
+          "url": "https://t.co/4FjQyW2gE4",
+          "indices": [
+            531,
+            554
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "isRetweet": false,
+    "isQuote": false,
+    "media": [
+      "https://pbs.twimg.com/media/G2mJpzgWcAETVyi.jpg",
+      "https://pbs.twimg.com/media/G2mJpzfWcAASdlN.jpg",
+      "https://pbs.twimg.com/media/G2mJpzVWUAAjCHF.jpg",
+      "https://pbs.twimg.com/media/G2mJpziW4AEVsoZ.jpg"
+    ],
+    "isConversationControlled": false
+  },
+  {
+    "type": "tweet",
+    "id": "1974974882283725029",
+    "url": "https: //x.com/taylorswift13/status/1974974882283725029",
+    "twitterUrl": "https://twitter.com/taylorswift13/status/1974974882283725029",
+    "text": "Writing, rehearsing, directing and shooting the music video for “The Fate of Ophelia” was the thrill of a lifetime because I got to be reunited with my Eras Tour family!! I wanted each one-take scene to feel like a live performance and remind us all of how it felt to be at those shows together. Making every moment count. It’s a journey through the chaotic world of show business. I loved working with Rodrigo Prieto, Ethan Tobman and Mandy Moore to dream up these visuals. A huge thank you to this massive cast who kept it 💯 and also kept the secret of this video even existing. It’s out on YouTube NOW!\n\nhttps://t.co/46y9bn4SIR\n\n📸: TAS Rights Management",
+    "fullText": "Writing, rehearsing, directing and shooting the music video for “The Fate of Ophelia” was the thrill of a lifetime because I got to be reunited with my Eras Tour family!! I wanted each one-take scene to feel like a live performance and remind us all of how it felt to be at those https://t.co/g7RAtXeK7U",
+    "source": "Twitter for iPhone",
+    "retweetCount": 51719,
+    "replyCount": 5314,
+    "likeCount": 292535,
+    "quoteCount": 4074,
+    "viewCount": 7940417,
+    "createdAt": "Sun Oct 05 23:07:59 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 7557,
+    "isReply": false,
+    "conversationId": "1974974882283725029",
+    "possiblySensitive": false,
+    "isPinned": false,
+    "author": {
+      "type": "user",
+      "userName": "taylorswift13",
+      "url": "https://x.com/taylorswift13",
+      "twitterUrl": "https://twitter.com/taylorswift13",
+      "id": "17919972",
+      "name": "Taylor Swift",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1973025421542236160/73NCkJyb_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/17919972/1759464215",
+      "description": "And, baby, that’s show business for you. New album The Life of a Showgirl. Available Now ❤️‍🔥",
+      "location": "",
+      "followers": 92948025,
+      "following": 0,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 06 10:10:54 +0000 2008",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "taylor.lnk.to/TSTheLifeofaSh…",
+              "expanded_url": "https://taylor.lnk.to/TSTheLifeofaShowgirl",
+              "url": "https://t.co/VetltwlcoJ",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 1571,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "mediaCount": 534,
+      "statusesCount": 877,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1973962151648735471"
+      ]
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/g7RAtXeK7U",
+          "expanded_url": "https://x.com/taylorswift13/status/1974974882283725029/photo/1",
+          "id_str": "1974974861794570240",
+          "indices": [
+            280,
+            303
+          ],
+          "media_key": "3_1974974861794570240",
+          "media_url_https": "https://pbs.twimg.com/media/G2iFLEWXcAAEWTm.jpg",
+          "type": "photo",
+          "url": "https://t.co/g7RAtXeK7U",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "x": 1141,
+                  "y": 256,
+                  "h": 83,
+                  "w": 83
+                },
+                {
+                  "x": 1301,
+                  "y": 251,
+                  "h": 83,
+                  "w": 83
+                },
+                {
+                  "x": 779,
+                  "y": 273,
+                  "h": 81,
+                  "w": 81
+                },
+                {
+                  "x": 563,
+                  "y": 359,
+                  "h": 75,
+                  "w": 75
+                },
+                {
+                  "x": 367,
+                  "y": 393,
+                  "h": 105,
+                  "w": 105
+                },
+                {
+                  "x": 1513,
+                  "y": 179,
+                  "h": 109,
+                  "w": 109
+                },
+                {
+                  "x": 1475,
+                  "y": 567,
+                  "h": 95,
+                  "w": 95
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 669,
+                  "y": 150,
+                  "h": 49,
+                  "w": 49
+                },
+                {
+                  "x": 762,
+                  "y": 147,
+                  "h": 49,
+                  "w": 49
+                },
+                {
+                  "x": 456,
+                  "y": 160,
+                  "h": 48,
+                  "w": 48
+                },
+                {
+                  "x": 330,
+                  "y": 210,
+                  "h": 44,
+                  "w": 44
+                },
+                {
+                  "x": 215,
+                  "y": 230,
+                  "h": 62,
+                  "w": 62
+                },
+                {
+                  "x": 887,
+                  "y": 105,
+                  "h": 64,
+                  "w": 64
+                },
+                {
+                  "x": 864,
+                  "y": 332,
+                  "h": 56,
+                  "w": 56
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "x": 379,
+                  "y": 85,
+                  "h": 27,
+                  "w": 27
+                },
+                {
+                  "x": 432,
+                  "y": 83,
+                  "h": 27,
+                  "w": 27
+                },
+                {
+                  "x": 258,
+                  "y": 90,
+                  "h": 27,
+                  "w": 27
+                },
+                {
+                  "x": 187,
+                  "y": 119,
+                  "h": 25,
+                  "w": 25
+                },
+                {
+                  "x": 122,
+                  "y": 130,
+                  "h": 35,
+                  "w": 35
+                },
+                {
+                  "x": 502,
+                  "y": 59,
+                  "h": 36,
+                  "w": 36
+                },
+                {
+                  "x": 489,
+                  "y": 188,
+                  "h": 31,
+                  "w": 31
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 2230,
+                  "y": 500,
+                  "h": 164,
+                  "w": 164
+                },
+                {
+                  "x": 2542,
+                  "y": 492,
+                  "h": 164,
+                  "w": 164
+                },
+                {
+                  "x": 1523,
+                  "y": 535,
+                  "h": 160,
+                  "w": 160
+                },
+                {
+                  "x": 1101,
+                  "y": 703,
+                  "h": 148,
+                  "w": 148
+                },
+                {
+                  "x": 718,
+                  "y": 769,
+                  "h": 207,
+                  "w": 207
+                },
+                {
+                  "x": 2957,
+                  "y": 351,
+                  "h": 214,
+                  "w": 214
+                },
+                {
+                  "x": 2882,
+                  "y": 1109,
+                  "h": 187,
+                  "w": 187
+                }
+              ]
+            }
+          },
+          "sizes": {
+            "large": {
+              "h": 1366,
+              "w": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "h": 800,
+              "w": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 454,
+              "w": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 2668,
+            "width": 4000,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 0,
+                "w": 4000,
+                "h": 2240
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 2668,
+                "h": 2668
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 2340,
+                "h": 2668
+              },
+              {
+                "x": 233,
+                "y": 0,
+                "w": 1334,
+                "h": 2668
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 4000,
+                "h": 2668
+              }
+            ]
+          },
+          "media_results": {
+            "result": {
+              "media_key": "3_1974974861794570240"
+            }
+          }
+        },
+        {
+          "display_url": "pic.x.com/g7RAtXeK7U",
+          "expanded_url": "https://x.com/taylorswift13/status/1974974882283725029/photo/1",
+          "id_str": "1974974861802946560",
+          "indices": [
+            280,
+            303
+          ],
+          "media_key": "3_1974974861802946560",
+          "media_url_https": "https://pbs.twimg.com/media/G2iFLEYXQAAFI7d.jpg",
+          "type": "photo",
+          "url": "https://t.co/g7RAtXeK7U",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "x": 890,
+                  "y": 292,
+                  "h": 98,
+                  "w": 98
+                },
+                {
+                  "x": 1088,
+                  "y": 318,
+                  "h": 92,
+                  "w": 92
+                },
+                {
+                  "x": 698,
+                  "y": 326,
+                  "h": 90,
+                  "w": 90
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 521,
+                  "y": 171,
+                  "h": 57,
+                  "w": 57
+                },
+                {
+                  "x": 637,
+                  "y": 186,
+                  "h": 53,
+                  "w": 53
+                },
+                {
+                  "x": 408,
+                  "y": 191,
+                  "h": 52,
+                  "w": 52
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "x": 295,
+                  "y": 96,
+                  "h": 32,
+                  "w": 32
+                },
+                {
+                  "x": 361,
+                  "y": 105,
+                  "h": 30,
+                  "w": 30
+                },
+                {
+                  "x": 231,
+                  "y": 108,
+                  "h": 29,
+                  "w": 29
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 1780,
+                  "y": 584,
+                  "h": 196,
+                  "w": 196
+                },
+                {
+                  "x": 2176,
+                  "y": 636,
+                  "h": 184,
+                  "w": 184
+                },
+                {
+                  "x": 1396,
+                  "y": 652,
+                  "h": 180,
+                  "w": 180
+                }
+              ]
+            }
+          },
+          "sizes": {
+            "large": {
+              "h": 1366,
+              "w": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "h": 800,
+              "w": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 454,
+              "w": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 2732,
+            "width": 4096,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 0,
+                "w": 4096,
+                "h": 2294
+              },
+              {
+                "x": 579,
+                "y": 0,
+                "w": 2732,
+                "h": 2732
+              },
+              {
+                "x": 747,
+                "y": 0,
+                "w": 2396,
+                "h": 2732
+              },
+              {
+                "x": 1262,
+                "y": 0,
+                "w": 1366,
+                "h": 2732
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 4096,
+                "h": 2732
+              }
+            ]
+          },
+          "media_results": {
+            "result": {
+              "media_key": "3_1974974861802946560"
+            }
+          }
+        },
+        {
+          "display_url": "pic.x.com/g7RAtXeK7U",
+          "expanded_url": "https://x.com/taylorswift13/status/1974974882283725029/photo/1",
+          "id_str": "1974974861786206208",
+          "indices": [
+            280,
+            303
+          ],
+          "media_key": "3_1974974861786206208",
+          "media_url_https": "https://pbs.twimg.com/media/G2iFLEUX0AAf4WQ.jpg",
+          "type": "photo",
+          "url": "https://t.co/g7RAtXeK7U",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "x": 978,
+                  "y": 358,
+                  "h": 122,
+                  "w": 122
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 573,
+                  "y": 209,
+                  "h": 71,
+                  "w": 71
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "x": 324,
+                  "y": 118,
+                  "h": 40,
+                  "w": 40
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 1956,
+                  "y": 716,
+                  "h": 244,
+                  "w": 244
+                }
+              ]
+            }
+          },
+          "sizes": {
+            "large": {
+              "h": 1366,
+              "w": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "h": 800,
+              "w": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 454,
+              "w": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 2732,
+            "width": 4096,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 0,
+                "w": 4096,
+                "h": 2294
+              },
+              {
+                "x": 784,
+                "y": 0,
+                "w": 2732,
+                "h": 2732
+              },
+              {
+                "x": 952,
+                "y": 0,
+                "w": 2396,
+                "h": 2732
+              },
+              {
+                "x": 1467,
+                "y": 0,
+                "w": 1366,
+                "h": 2732
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 4096,
+                "h": 2732
+              }
+            ]
+          },
+          "media_results": {
+            "result": {
+              "media_key": "3_1974974861786206208"
+            }
+          }
+        },
+        {
+          "display_url": "pic.x.com/g7RAtXeK7U",
+          "expanded_url": "https://x.com/taylorswift13/status/1974974882283725029/photo/1",
+          "id_str": "1974974861786099712",
+          "indices": [
+            280,
+            303
+          ],
+          "media_key": "3_1974974861786099712",
+          "media_url_https": "https://pbs.twimg.com/media/G2iFLEUWMAArNNf.jpg",
+          "type": "photo",
+          "url": "https://t.co/g7RAtXeK7U",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "x": 644,
+                  "y": 422,
+                  "h": 70,
+                  "w": 70
+                },
+                {
+                  "x": 1162,
+                  "y": 514,
+                  "h": 76,
+                  "w": 76
+                },
+                {
+                  "x": 446,
+                  "y": 558,
+                  "h": 76,
+                  "w": 76
+                },
+                {
+                  "x": 1348,
+                  "y": 712,
+                  "h": 72,
+                  "w": 72
+                },
+                {
+                  "x": 1444,
+                  "y": 724,
+                  "h": 64,
+                  "w": 64
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 377,
+                  "y": 247,
+                  "h": 41,
+                  "w": 41
+                },
+                {
+                  "x": 680,
+                  "y": 301,
+                  "h": 44,
+                  "w": 44
+                },
+                {
+                  "x": 261,
+                  "y": 326,
+                  "h": 44,
+                  "w": 44
+                },
+                {
+                  "x": 789,
+                  "y": 417,
+                  "h": 42,
+                  "w": 42
+                },
+                {
+                  "x": 846,
+                  "y": 424,
+                  "h": 37,
+                  "w": 37
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "x": 213,
+                  "y": 140,
+                  "h": 23,
+                  "w": 23
+                },
+                {
+                  "x": 385,
+                  "y": 170,
+                  "h": 25,
+                  "w": 25
+                },
+                {
+                  "x": 148,
+                  "y": 185,
+                  "h": 25,
+                  "w": 25
+                },
+                {
+                  "x": 447,
+                  "y": 236,
+                  "h": 23,
+                  "w": 23
+                },
+                {
+                  "x": 479,
+                  "y": 240,
+                  "h": 21,
+                  "w": 21
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 1288,
+                  "y": 844,
+                  "h": 140,
+                  "w": 140
+                },
+                {
+                  "x": 2324,
+                  "y": 1028,
+                  "h": 152,
+                  "w": 152
+                },
+                {
+                  "x": 892,
+                  "y": 1116,
+                  "h": 152,
+                  "w": 152
+                },
+                {
+                  "x": 2696,
+                  "y": 1424,
+                  "h": 144,
+                  "w": 144
+                },
+                {
+                  "x": 2888,
+                  "y": 1448,
+                  "h": 128,
+                  "w": 128
+                }
+              ]
+            }
+          },
+          "sizes": {
+            "large": {
+              "h": 1366,
+              "w": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "h": 800,
+              "w": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 454,
+              "w": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 2732,
+            "width": 4096,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 0,
+                "w": 4096,
+                "h": 2294
+              },
+              {
+                "x": 989,
+                "y": 0,
+                "w": 2732,
+                "h": 2732
+              },
+              {
+                "x": 1157,
+                "y": 0,
+                "w": 2396,
+                "h": 2732
+              },
+              {
+                "x": 1672,
+                "y": 0,
+                "w": 1366,
+                "h": 2732
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 4096,
+                "h": 2732
+              }
+            ]
+          },
+          "media_results": {
+            "result": {
+              "media_key": "3_1974974861786099712"
+            }
+          }
+        }
+      ]
+    },
+    "card": {},
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "taylor.lnk.to/TheFateofOphel…",
+          "expanded_url": "https://taylor.lnk.to/TheFateofOpheliaMusicVideo",
+          "url": "https://t.co/46y9bn4SIR",
+          "indices": [
+            607,
+            630
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "isRetweet": false,
+    "isQuote": false,
+    "media": [
+      "https://pbs.twimg.com/media/G2iFLEWXcAAEWTm.jpg",
+      "https://pbs.twimg.com/media/G2iFLEYXQAAFI7d.jpg",
+      "https://pbs.twimg.com/media/G2iFLEUX0AAf4WQ.jpg",
+      "https://pbs.twimg.com/media/G2iFLEUWMAArNNf.jpg"
+    ],
+    "isConversationControlled": false
+  }
+]
