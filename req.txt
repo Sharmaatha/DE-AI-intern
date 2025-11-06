@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+psycopg2-binary
+sentence-transformers
+faiss-cpu
+python-dotenv
+numpy
+tqdm
+pymupdf
