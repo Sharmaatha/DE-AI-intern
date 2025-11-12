@@ -1,0 +1,9 @@
+client_secret.json
+token.json
+__pycache__/
+*.pyc
+.env
+venv/
+*.log
+.DS_Store
+.idea/
