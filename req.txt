@@ -1,0 +1,22 @@
+# Core Dependencies
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+
+# PDF Processing
+PyPDF2
+
+# Embeddings & Vector Search
+sentence-transformers
+faiss-cpu
+numpy
+
+# Database
+# sqlite3 
+
+# File handling
+python-multipart
+
+# Logging (optional, for better logs)
+python-json-logger
