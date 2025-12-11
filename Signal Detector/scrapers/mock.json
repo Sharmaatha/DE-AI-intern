@@ -1,0 +1,846 @@
+[
+    {
+        "id": "5e3bbec500c8f4c9669fe5ea",
+        "organization_name": "January Capital",
+        "organization_rank": 6539058,
+        "organization_name_aliases": [],
+        "primary_role": "investor",
+        "roles": [
+            "company",
+            "investor"
+        ],
+        "description": "January Capital is a venture capital and growth credit firm focused on the Asia-Pacific region. They partner with exceptional technology companies to provide flexible capital solutions that amplify growth ambitions. Their venture capital strategy targets early-stage founders, aiming to be their first institutional investor by leveraging proprietary data-driven tooling and focusing on key areas of conviction. The growth credit strategy provides less-dilutive credit financing to leading growth-stage technology firms. Beyond capital, January Capital offers content and programs through 'The First' to guide the next generation of founders.",
+        "tagline": "January Capital provides venture capital and growth credit to technology companies in the Asia-Pacific region.",
+        "customer_focus": "b2b",
+        "certifications": [],
+        "customer_profile": "Asia-Pacific technology companies",
+        "traction_highlights": "",
+        "reported_clients": [
+            "5e3bc0a800c8f4c966a5a762",
+            "5e3bc01a00c8f4c966a3ae2e",
+            "5e3ba0c000c8f4c9668b7cf3",
+            "5e3a8f1e040ca7b0c6f0b42f",
+            "5e3a8f1e040ca7b0c6f0abd8"
+        ],
+        "last_updated": "2025-11-30",
+        "tags": [
+            "Asia-Pacific",
+            "Commerce",
+            "Data-driven",
+            "Early Stage",
+            "Fintech",
+            "Growth Credit",
+            "Technology",
+            "Venture Capital"
+        ],
+        "industries": [
+            "Finance",
+            "Lending and Investments"
+        ],
+        "sub_industries": [
+            "Financial Services"
+        ],
+        "operating_status": "active",
+        "highlights": [
+            "headcount_3mo_surge",
+            "no_funding",
+            "social_followers_12mo_scale_up",
+            "social_followers_3mo_surge",
+            "social_followers_6mo_momentum",
+            "web_traffic_3mo_surge"
+        ],
+        "new_highlights": [
+            "web_traffic_3mo_surge"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "founded_year": 2019,
+        "founders": [],
+        "founder_info": null,
+        "founder_count": null,
+        "employee_count": 39,
+        "employee_count_range": "11-50",
+        "revenue_estimate_usd": 0,
+        "investors": [],
+        "investor_count": null,
+        "patent_count": null,
+        "trademark_count": null,
+        "website": {
+            "domain": "january.capital",
+            "url": "https://january.capital",
+            "domain_aliases": []
+        },
+        "hq": {
+            "city": "Singapore",
+            "state": "Singapore",
+            "country": "Singapore",
+            "region": "Asia"
+        },
+        "contact": {
+            "phone_number": "+65 3105 1269",
+            "email": "investors@january.capital"
+        },
+        "ipo": [],
+        "growth_stage": "bootstrapped",
+        "funding": {
+            "total_funding_usd": null,
+            "last_funding_usd": null,
+            "last_funding_date": null,
+            "last_funding_type": null,
+            "round_details": [],
+            "round_count": null,
+            "post_money_valuation_usd": null
+        },
+        "web": {
+            "visits": 11595,
+            "popularity_rank": 2056125,
+            "top_country": "Vietnam",
+            "bounce_rate": 41.32,
+            "bounce_rate_3mo_change": 2,
+            "pages_per_visit": 1.5637911558151245,
+            "pages_per_visit_3mo_change": 0,
+            "session_duration": 31,
+            "session_duration_3mo_change": 21,
+            "traffic_source": "Mail: 0.1%; Direct: 48.2%; Search: 39.4%; Social: 3.0%; Referrals: 8.4%; Paid Referrals: 1.0%",
+            "country_breakdown": "Vietnam 33.187541365623474%; United States 21.213479340076447%; India 14.146967232227325%; Australia 11.431612074375153%; Indonesia 9.787820279598236%"
+        },
+        "technologies": [
+            "Amazon S3",
+            "CDN JS",
+            "Cloudflare",
+            "Cloudflare JS",
+            "CommonCrawl Top 5m",
+            "DNSSEC",
+            "Facebook Sharer",
+            "Lorem Ipsum",
+            "Next.js",
+            "nginx"
+        ],
+        "it_spend": null,
+        "awards": [],
+        "award_count": null,
+        "news": [
+            {
+                "date": "2025-09-04",
+                "title": "Deals in brief: RushOwl and Zuzu raise funding, Airwallex acquires OpenPay, nine new China investments, and more",
+                "url": "https://kr-asia.com/deals-in-brief-rushowl-and-zuzu-raise-funding-airwallex-acquires-openpay-nine-new-china-investments-and-more",
+                "publisher": "KrASIA"
+            },
+            {
+                "date": "2025-08-29",
+                "title": "Finovate Global Singapore: Investments in Open Banking, Payments, and the Blockchain",
+                "url": "https://finovate.com/finovate-global-singapore-investments-in-open-banking-payments-and-the-blockchain/",
+                "publisher": "Finovate"
+            },
+            {
+                "date": "2025-08-29",
+                "title": "FinTech summer slowdown hits with only 15 deals recorded",
+                "url": "https://fintech.global/2025/08/29/fintech-summer-slowdown-hits-with-only-15-deals-recorded/?utm_source=rss&utm_medium=rss&utm_campaign=fintech-summer-slowdown-hits-with-only-15-deals-recorded",
+                "publisher": "FinTech Global"
+            },
+            {
+                "date": "2025-08-28",
+                "title": "Tazapay Lands Strategic Investments from Ripple and Circle, Signaling a New Era for Cross-Border Payments",
+                "url": "https://financialit.net/news/fundraising-news/tazapay-lands-strategic-investments-ripple-and-circle-signaling-new-era-cross",
+                "publisher": "Financial IT"
+            },
+            {
+                "date": "2025-08-28",
+                "title": "Singapore's Tazapay lands strategic investments from Ripple and Circle",
+                "url": "https://technode.global/2025/08/28/singapores-tazapay-lands-strategic-investments-from-ripple-and-circle/",
+                "publisher": "TNGlobal"
+            },
+            {
+                "date": "2025-08-27",
+                "title": "Tazapay Lands Strategic Investments from Ripple and Circle, Signaling a New Era for Cross-Border Payments",
+                "url": "https://en.prnasia.com/releases/global/tazapay-lands-strategic-investments-from-ripple-and-circle-signaling-a-new-era-for-cross-border-payments-501026.shtml",
+                "publisher": "prnasia.com"
+            },
+            {
+                "date": "2025-08-27",
+                "title": "Cross-border payments firm Tazapay secures Series B funding",
+                "url": "https://fintech.global/2025/08/27/cross-border-payments-firm-tazapay-secures-series-b-funding/?utm_source=rss&utm_medium=rss&utm_campaign=cross-border-payments-firm-tazapay-secures-series-b-funding",
+                "publisher": "FinTech Global"
+            },
+            {
+                "date": "2025-08-27",
+                "title": "SG payments firm Tazapay bags Series B funding from Ripple, Circle",
+                "url": "https://www.dealstreetasia.com/stories/tazapay-series-b-funding-454255/",
+                "publisher": "DealStreetAsia"
+            },
+            {
+                "date": "2025-08-27",
+                "title": "Tazapay Lands Strategic Investments from Ripple and Circle, Signaling a New Era for Cross-Border Payments",
+                "url": "https://www.morningstar.com/news/pr-newswire/20250826io59454/tazapay-lands-strategic-investments-from-ripple-and-circle-signaling-a-new-era-for-cross-border-payments",
+                "publisher": "Morningstar.com"
+            },
+            {
+                "date": "2025-08-27",
+                "title": "Tazapay Lands Strategic Investments from Ripple and Circle, Signaling a New Era for Cross-Border Payments",
+                "url": "https://www.newswire.ca/news-releases/tazapay-lands-strategic-investments-from-ripple-and-circle-signaling-a-new-era-for-cross-border-payments-809764386.html",
+                "publisher": "Canada NewsWire"
+            },
+            {
+                "date": "2025-04-02",
+                "title": "Asia's smaller PE firms turn to stake sale as money dries up",
+                "url": "https://www.dealstreetasia.com/stories/scarcity-partners-interview-435932/",
+                "publisher": "DealStreetAsia"
+            },
+            {
+                "date": "2025-03-13",
+                "title": "Netbank Secures Funding to Drive Growth in the Philippines",
+                "url": "https://fintechnews.ph/66221/funding/netbank-funding-drive-growth-in-philippines/",
+                "publisher": "Fintech News Philippines"
+            },
+            {
+                "date": "2024-12-18",
+                "title": "January Capital raises $85m for growth credit fund",
+                "url": "https://alternativecreditinvestor.com/2024/12/18/january-capital-raises-85m-for-growth-credit-fund/",
+                "publisher": "Alternative Credit Investor"
+            },
+            {
+                "date": "2024-12-18",
+                "title": "January Capital’s APAC private credit fund gathers over $85m in first close",
+                "url": "https://www.dealstreetasia.com/stories/january-capital-apac-private-credit-fund-424046/",
+                "publisher": "DealStreetAsia"
+            },
+            {
+                "date": "2024-12-18",
+                "title": "Singapore’s January Capital secures $85m for tech credit fund",
+                "url": "https://www.privateequitywire.co.uk/singapores-january-capital-secures-85m-for-tech-credit-fund/",
+                "publisher": "Private Equity News"
+            },
+            {
+                "date": "2024-12-17",
+                "title": "January Capital Raises $85 Million for Private Credit Tech Fund",
+                "url": "https://www.bloomberg.com/news/articles/2024-12-17/january-capital-raises-85-million-for-private-credit-tech-fund?srnd=phx-markets",
+                "publisher": "Bloomberg.com"
+            },
+            {
+                "date": "2024-12-17",
+                "title": "January Capital Raises $85 Million for Private Credit Tech Fund",
+                "url": "https://www.livemint.com/companies/company-results/january-capital-raises-85-million-for-private-credit-tech-fund-11734467064249.html",
+                "publisher": "mint"
+            }
+        ],
+        "reviews": {
+            "g2": {
+                "products": [],
+                "rating_avg": 0,
+                "review_count": null
+            },
+            "chrome_extensions": {
+                "extensions": [],
+                "rating_avg": 0,
+                "review_count": 0,
+                "user_count": 0
+            }
+        },
+        "socials": {
+            "twitter": {
+                "url": "x.com/january_capital",
+                "follower_count": 288
+            },
+            "facebook": {
+                "url": "facebook.com/januarycapital"
+            },
+            "linkedin": {
+                "url": "linkedin.com/company/january-capital",
+                "follower_count": 23531
+            },
+            "itunes": {
+                "urls": null,
+                "rating": null,
+                "review_count": null
+            },
+            "googleplay": {
+                "urls": null,
+                "rating": null,
+                "review_count": null
+            },
+            "instagram": {
+                "url": null,
+                "follower_count": null,
+                "following_count": null
+            },
+            "crunchbase": {
+                "url": "crunchbase.com/organization/january-capital"
+            }
+        },
+        "traction_metrics": {
+            "popularity_rank": {
+                "latest": 2056125,
+                "1mo": {
+                    "value": 2378680,
+                    "change": -322555,
+                    "percentage": -13.56
+                },
+                "2mo": {
+                    "value": 3481401,
+                    "change": -1425276,
+                    "percentage": -40.94
+                },
+                "3mo": {
+                    "value": 3653657,
+                    "change": -1597532,
+                    "percentage": -43.72
+                },
+                "4mo": {
+                    "value": 4504372,
+                    "change": -2448247,
+                    "percentage": -54.35
+                },
+                "5mo": {
+                    "value": 4083869,
+                    "change": -2027744,
+                    "percentage": -49.65
+                },
+                "6mo": {
+                    "value": 2901593,
+                    "change": -845468,
+                    "percentage": -29.14
+                },
+                "12mo": {
+                    "value": 3726828,
+                    "change": -1670703,
+                    "percentage": -44.83
+                },
+                "24mo": {
+                    "value": 8638982,
+                    "change": -6582857,
+                    "percentage": -76.2
+                }
+            },
+            "web_visits": {
+                "latest": 11595,
+                "1mo": {
+                    "value": 9228,
+                    "change": 2367,
+                    "percentage": 25.65
+                },
+                "2mo": {
+                    "value": 5751,
+                    "change": 5844,
+                    "percentage": 101.62
+                },
+                "3mo": {
+                    "value": 5131,
+                    "change": 6464,
+                    "percentage": 125.98
+                },
+                "4mo": {
+                    "value": 3430,
+                    "change": 8165,
+                    "percentage": 238.05
+                },
+                "5mo": {
+                    "value": 3067,
+                    "change": 8528,
+                    "percentage": 278.06
+                },
+                "6mo": {
+                    "value": 5505,
+                    "change": 6090,
+                    "percentage": 110.63
+                },
+                "12mo": {
+                    "value": 5159,
+                    "change": 6436,
+                    "percentage": 124.75
+                },
+                "24mo": {
+                    "value": 19001,
+                    "change": -7406,
+                    "percentage": -38.98
+                }
+            },
+            "employee_count": {
+                "latest": 39,
+                "1mo": {
+                    "value": 40,
+                    "change": -1,
+                    "percentage": -2.5
+                },
+                "2mo": {
+                    "value": 34,
+                    "change": 5,
+                    "percentage": 14.71
+                },
+                "3mo": {
+                    "value": 34,
+                    "change": 5,
+                    "percentage": 14.71
+                },
+                "4mo": {
+                    "value": 34,
+                    "change": 5,
+                    "percentage": 14.71
+                },
+                "5mo": {
+                    "value": 35,
+                    "change": 4,
+                    "percentage": 11.43
+                },
+                "6mo": {
+                    "value": 35,
+                    "change": 4,
+                    "percentage": 11.43
+                },
+                "12mo": {
+                    "value": 29,
+                    "change": 10,
+                    "percentage": 34.48
+                },
+                "24mo": {
+                    "value": 26,
+                    "change": 13,
+                    "percentage": 50
+                }
+            },
+            "linkedin_followers": {
+                "latest": 23531,
+                "1mo": {
+                    "value": 23234,
+                    "change": 297,
+                    "percentage": 1.28
+                },
+                "2mo": {
+                    "value": 23002,
+                    "change": 529,
+                    "percentage": 2.3
+                },
+                "3mo": {
+                    "value": 19466,
+                    "change": 4065,
+                    "percentage": 20.88
+                },
+                "4mo": {
+                    "value": 19292,
+                    "change": 4239,
+                    "percentage": 21.97
+                },
+                "5mo": {
+                    "value": 19115,
+                    "change": 4416,
+                    "percentage": 23.1
+                },
+                "6mo": {
+                    "value": 18981,
+                    "change": 4550,
+                    "percentage": 23.97
+                },
+                "12mo": {
+                    "value": 16528,
+                    "change": 7003,
+                    "percentage": 42.37
+                },
+                "24mo": {
+                    "value": 13361,
+                    "change": 10170,
+                    "percentage": 76.12
+                }
+            },
+            "twitter_followers": {
+                "latest": 288,
+                "1mo": {
+                    "value": 286,
+                    "change": 2,
+                    "percentage": 0.7
+                },
+                "2mo": {
+                    "value": 284,
+                    "change": 4,
+                    "percentage": 1.41
+                },
+                "3mo": {
+                    "value": 280,
+                    "change": 8,
+                    "percentage": 2.86
+                },
+                "4mo": {
+                    "value": 279,
+                    "change": 9,
+                    "percentage": 3.23
+                },
+                "5mo": {
+                    "value": 275,
+                    "change": 13,
+                    "percentage": 4.73
+                },
+                "6mo": {
+                    "value": 273,
+                    "change": 15,
+                    "percentage": 5.49
+                },
+                "12mo": {
+                    "value": 270,
+                    "change": 18,
+                    "percentage": 6.67
+                },
+                "24mo": {
+                    "value": 258,
+                    "change": 30,
+                    "percentage": 11.63
+                }
+            },
+            "instagram_followers": {},
+            "itunes_reviews": {},
+            "googleplay_reviews": {},
+            "app_downloads": {},
+            "g2_reviews": {},
+            "trustpilot_reviews": {},
+            "chrome_extensions_reviews": {},
+            "chrome_extensions_users": {}
+        },
+        "specter_strategic_signal_ids": null
+    },
+    {
+        "id": "6773ed032d5d1f7355dbec59",
+        "organization_name": "January Capital Advisors",
+        "organization_rank": 4604177,
+        "organization_name_aliases": [],
+        "primary_role": "company",
+        "roles": [
+            "company"
+        ],
+        "description": "January Capital Advisors is an independent wealth design firm based in San Francisco, California, that helps clients craft financial strategies aligned with their values and objectives to live the story they want to tell. They offer a comprehensive range of services including Financial Planning, Investment Management, Tax Planning, Estate & Legacy Planning, and Risk Management. Their approach is team-based, adhering to a fiduciary standard, and focuses on compassionate, rational advice. The firm emphasizes clarity, transparency, and independence, aiming to create meaningful impact on clients' lives and communities. Founded in 2014, they leverage over 60 years of combined investment experience, fostering lifelong client relationships.",
+        "tagline": "January Capital Advisors provides financial planning and investment management services to help clients achieve their life goals.",
+        "customer_focus": "b2c_b2b",
+        "certifications": [],
+        "customer_profile": "Individuals and families seeking wealth design",
+        "traction_highlights": "",
+        "reported_clients": [],
+        "last_updated": "2025-11-30",
+        "tags": [
+            "Estate Planning",
+            "Fiduciary",
+            "Financial Planning",
+            "Investment",
+            "Legacy",
+            "San Francisco",
+            "Tax Planning",
+            "Wealth Management"
+        ],
+        "industries": [
+            "Finance",
+            "Lending and Investments"
+        ],
+        "sub_industries": [
+            "Financial Services"
+        ],
+        "operating_status": "active",
+        "highlights": [
+            "no_funding"
+        ],
+        "new_highlights": [],
+        "regions": [
+            "North America"
+        ],
+        "founded_year": 2014,
+        "founders": [
+            "Michael Porfido"
+        ],
+        "founder_info": [
+            {
+                "specter_person_id": "per_38f98cd473ffdbbc9ae70ef7",
+                "full_name": "Michael Porfido",
+                "departments": [
+                    "Senior Leadership"
+                ],
+                "title": "Co-Founder",
+                "seniority": "Executive Level"
+            }
+        ],
+        "founder_count": 1,
+        "employee_count": 5,
+        "employee_count_range": "1-10",
+        "revenue_estimate_usd": 0,
+        "investors": [],
+        "investor_count": null,
+        "patent_count": null,
+        "trademark_count": null,
+        "website": {
+            "domain": "januarycapital.co",
+            "url": "https://januarycapital.co",
+            "domain_aliases": []
+        },
+        "hq": {
+            "city": "San Francisco",
+            "state": "California",
+            "country": "United States",
+            "region": "North America"
+        },
+        "contact": {
+            "phone_number": "415-494-2790",
+            "email": "january@januarycapital.co"
+        },
+        "ipo": [],
+        "growth_stage": "bootstrapped",
+        "funding": {
+            "total_funding_usd": null,
+            "last_funding_usd": null,
+            "last_funding_date": null,
+            "last_funding_type": null,
+            "round_details": [],
+            "round_count": null,
+            "post_money_valuation_usd": null
+        },
+        "web": {
+            "visits": 1452,
+            "popularity_rank": 8022620,
+            "top_country": "Vietnam",
+            "bounce_rate": 36.08,
+            "bounce_rate_3mo_change": -4,
+            "pages_per_visit": 2.837853193283081,
+            "pages_per_visit_3mo_change": 1,
+            "session_duration": 77,
+            "session_duration_3mo_change": 67,
+            "traffic_source": "Mail: 0.1%; Direct: 53.8%; Search: 28.6%; Social: 6.7%; Referrals: 9.0%; Paid Referrals: 1.2%",
+            "country_breakdown": "Vietnam 52.455323934555054%; United States 47.544676065444946%"
+        },
+        "technologies": [
+            "CDN JS",
+            "Cloudflare JS",
+            "Content Delivery Network",
+            "Euro",
+            "Font Awesome",
+            "Google Font API",
+            "HSTS",
+            "IPhone / Mobile Compatible",
+            "Organization Schema",
+            "Viewport Meta"
+        ],
+        "it_spend": 178217,
+        "awards": [],
+        "award_count": null,
+        "news": [
+            {
+                "date": "2025-03-26",
+                "title": "ASEAN tech funding faces gaps despite recovery signs: report",
+                "url": "https://www.techinasia.com/news/asean-tech-funding-faces-gaps-despite-recovery-signs-report",
+                "publisher": "Tech in Asia"
+            }
+        ],
+        "reviews": {
+            "g2": {
+                "products": [],
+                "rating_avg": 0,
+                "review_count": null
+            },
+            "chrome_extensions": {
+                "extensions": [],
+                "rating_avg": 0,
+                "review_count": 0,
+                "user_count": 0
+            }
+        },
+        "socials": {
+            "twitter": {
+                "url": null,
+                "follower_count": null
+            },
+            "facebook": {
+                "url": null
+            },
+            "linkedin": {
+                "url": "linkedin.com/company/january-capital-advisors",
+                "follower_count": 200
+            },
+            "itunes": {
+                "urls": null,
+                "rating": null,
+                "review_count": null
+            },
+            "googleplay": {
+                "urls": null,
+                "rating": null,
+                "review_count": null
+            },
+            "instagram": {
+                "url": null,
+                "follower_count": null,
+                "following_count": null
+            },
+            "crunchbase": {
+                "url": "crunchbase.com/organization/january-capital-advisors"
+            }
+        },
+        "traction_metrics": {
+            "popularity_rank": {
+                "latest": 8022620,
+                "1mo": {
+                    "value": 8338210,
+                    "change": -315590,
+                    "percentage": -3.78
+                },
+                "2mo": {
+                    "value": 8338210,
+                    "change": -315590,
+                    "percentage": -3.78
+                },
+                "3mo": {
+                    "value": 5685640,
+                    "change": 2336980,
+                    "percentage": 41.1
+                },
+                "4mo": {
+                    "value": 5685640,
+                    "change": 2336980,
+                    "percentage": 41.1
+                },
+                "5mo": {
+                    "value": 5685640,
+                    "change": 2336980,
+                    "percentage": 41.1
+                },
+                "6mo": {
+                    "value": 5685640,
+                    "change": 2336980,
+                    "percentage": 41.1
+                },
+                "12mo": {
+                    "value": 0,
+                    "change": 8022620
+                },
+                "24mo": {
+                    "value": 0,
+                    "change": 8022620
+                }
+            },
+            "web_visits": {
+                "latest": 1452,
+                "1mo": {
+                    "value": 1349,
+                    "change": 103,
+                    "percentage": 7.64
+                },
+                "2mo": {
+                    "value": 1349,
+                    "change": 103,
+                    "percentage": 7.64
+                },
+                "3mo": {
+                    "value": 718,
+                    "change": 734,
+                    "percentage": 102.23
+                },
+                "4mo": {
+                    "value": 749,
+                    "change": 703,
+                    "percentage": 93.86
+                },
+                "5mo": {
+                    "value": 550,
+                    "change": 902,
+                    "percentage": 164
+                },
+                "6mo": {
+                    "value": 1763,
+                    "change": -311,
+                    "percentage": -17.64
+                },
+                "12mo": {
+                    "value": 0,
+                    "change": 1452
+                },
+                "24mo": {
+                    "value": 0,
+                    "change": 1452
+                }
+            },
+            "employee_count": {
+                "latest": 5,
+                "1mo": {
+                    "value": 5,
+                    "change": 0,
+                    "percentage": 0
+                },
+                "2mo": {
+                    "value": 5,
+                    "change": 0,
+                    "percentage": 0
+                },
+                "3mo": {
+                    "value": 5,
+                    "change": 0,
+                    "percentage": 0
+                },
+                "4mo": {
+                    "value": 4,
+                    "change": 1,
+                    "percentage": 25
+                },
+                "5mo": {
+                    "value": 5,
+                    "change": 0,
+                    "percentage": 0
+                },
+                "6mo": {
+                    "value": 4,
+                    "change": 1,
+                    "percentage": 25
+                },
+                "12mo": {
+                    "value": 0,
+                    "change": 5
+                },
+                "24mo": {
+                    "value": 0,
+                    "change": 5
+                }
+            },
+            "linkedin_followers": {
+                "latest": 200,
+                "1mo": {
+                    "value": 190,
+                    "change": 10,
+                    "percentage": 5.26
+                },
+                "2mo": {
+                    "value": 190,
+                    "change": 10,
+                    "percentage": 5.26
+                },
+                "3mo": {
+                    "value": 189,
+                    "change": 11,
+                    "percentage": 5.82
+                },
+                "4mo": {
+                    "value": 187,
+                    "change": 13,
+                    "percentage": 6.95
+                },
+                "5mo": {
+                    "value": 186,
+                    "change": 14,
+                    "percentage": 7.53
+                },
+                "6mo": {
+                    "value": 182,
+                    "change": 18,
+                    "percentage": 9.89
+                },
+                "12mo": {
+                    "value": 0,
+                    "change": 200
+                },
+                "24mo": {
+                    "value": 0,
+                    "change": 200
+                }
+            },
+            "twitter_followers": {},
+            "instagram_followers": {},
+            "itunes_reviews": {},
+            "googleplay_reviews": {},
+            "app_downloads": {},
+            "g2_reviews": {},
+            "trustpilot_reviews": {},
+            "chrome_extensions_reviews": {},
+            "chrome_extensions_users": {}
+        },
+        "specter_strategic_signal_ids": null
+    }
+]
