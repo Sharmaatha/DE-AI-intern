@@ -1,3 +1,0 @@
-from models.models import Base, Company, Product
-
-__all__ = ["Base", "Company", "Product"]
