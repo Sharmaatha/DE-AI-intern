@@ -1,9 +1,0 @@
-.env/
-env/    
-pycache/
-*.pyc
-.DS_Store
-.vscode/
-bin/
-.venv/
-
